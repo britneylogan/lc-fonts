@@ -1,0 +1,12 @@
+/* Webfont: LeBorn */@font-face {
+    font-family: 'LeBorn';
+    src: url('LeBorn.eot'); /* IE9 Compat Modes */
+    src: url('LeBorn.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LeBorn.woff') format('woff'), /* Modern Browsers */
+         url('LeBorn.woff2') format('woff2'), /* Modern Browsers */
+         url('LeBorn.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
